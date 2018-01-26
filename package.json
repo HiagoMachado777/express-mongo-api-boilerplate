@@ -1,0 +1,22 @@
+{
+  "name": "express-mongo-api-boilerplate",
+  "version": "1.0.0",
+  "description": "\"A API boilerplate to work with Node, Express and MongoDB\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HiagoMachado777/express-mongo-api-boilerplate.git"
+  },
+  "author": "Hiago Machado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HiagoMachado777/express-mongo-api-boilerplate/issues"
+  },
+  "homepage": "https://github.com/HiagoMachado777/express-mongo-api-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
